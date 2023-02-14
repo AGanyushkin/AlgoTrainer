@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTasks", "SimpleTasks\SimpleTasks.csproj", "{3A671157-9DA5-4D3B-A957-F0FADB9D6687}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTasksTests", "SimpleTasksTests\SimpleTasksTests.csproj", "{7FCFFBBC-01C6-4BDD-8EE6-F49945528929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A671157-9DA5-4D3B-A957-F0FADB9D6687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A671157-9DA5-4D3B-A957-F0FADB9D6687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A671157-9DA5-4D3B-A957-F0FADB9D6687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A671157-9DA5-4D3B-A957-F0FADB9D6687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCFFBBC-01C6-4BDD-8EE6-F49945528929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCFFBBC-01C6-4BDD-8EE6-F49945528929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCFFBBC-01C6-4BDD-8EE6-F49945528929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCFFBBC-01C6-4BDD-8EE6-F49945528929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2430CCF-8B89-4FEC-BAD8-CC1DBB64A54E}
+	EndGlobalSection
+EndGlobal
