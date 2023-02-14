@@ -1,7 +1,5 @@
 ﻿namespace tasks;
 
-using System;
-
 public class Task1
 {
     /**

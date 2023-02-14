@@ -1,8 +1,5 @@
 ﻿namespace tasks;
 
-using System;
-using System.Text;
-
 public class Task3
 {
     /**
